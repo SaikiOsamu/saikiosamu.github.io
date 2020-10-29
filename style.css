@@ -33,6 +33,10 @@ html, body {
   align-items: center;
   justify-content: center;
 }
+.right {
+  align-items: center;
+  justify-content: center;
+}
 
 .name {
   font-family: Impact, Charcoal, sans-serif;
