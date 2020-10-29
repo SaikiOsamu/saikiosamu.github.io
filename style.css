@@ -20,7 +20,7 @@ html, body {
 }
 
 .left, .right {
-  background-color: grey;
+  background-color: LightGrey;
   
   margin: 5px;
   width: 100%;
